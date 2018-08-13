@@ -10,23 +10,21 @@ header {
   text-align: center;
 }
 
-figure {
-  text-align: center;
-}
-
 nav > a{
   padding-left: 10px;
   padding-right: 10px;
   background-color: rgb(102, 153, 153);
 }
 
+#featured-property {
+  width: 800px;
+  text-align: center;
+}
+
 figcaption {
   font-size: 10px;
   color: #a6a6a6;
-}
-
-section#featured-property {
-  width: 800px;
+  text-align: center;
 }
 
 #details {
@@ -34,6 +32,6 @@ section#featured-property {
 }
 
 #details div {
-  width: 25%;
+  width: 28%;
   float: left;
 }
